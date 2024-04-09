@@ -1,14 +1,4 @@
-<div align="center">
-    <img src="documentation/static/img/tom-github-banner.png" alt="Logo" width="100%">
-</div>
-
-![React Native Boilerplate License](https://img.shields.io/github/license/thecodingmachine/react-native-boilerplate)
-![React Native Boilerplate Release Date](https://img.shields.io/github/release-date/thecodingmachine/react-native-boilerplate)
-![React Native Boilerplate Download](https://flat.badgen.net/npm/dt/@thecodingmachine/react-native-boilerplate)
-![React Native Boilerplate Top Language](https://img.shields.io/github/languages/top/thecodingmachine/react-native-boilerplate)
-[![CI](https://github.com/thecodingmachine/react-native-boilerplate/actions/workflows/boilerplate-checks.yml/badge.svg)](https://github.com/thecodingmachine/react-native-boilerplate/actions/workflows/CI.yml)
-
-# TheCodingMachine React Native boilerplate
+# React Native boilerplate
 
 This project is a [React Native](https://facebook.github.io/react-native/) boilerplate that can be used to kickstart a mobile application.
 
@@ -38,15 +28,3 @@ Assuming you have all the requirements installed, you can run the project by run
 
 - `yarn start` to start the metro bundler, in a dedicated terminal
 - `yarn <platform>` to run the *platform* application (remember to start a simulator or connect a device)
-
-## Digging Deeper
-
-To learn more about this boilerplate, go to [full documentation](https://thecodingmachine.github.io/react-native-boilerplate)
-
-## License
-
-This project is released under the [MIT License](LICENSE).
-
-## About us
-
-[TheCodingMachine](https://www.thecodingmachine.com/) is a web and mobile agency based in Paris and Lyon, France. We are [constantly looking for new developers and team leaders](https://www.thecodingmachine.com/nous-rejoindre/) and we love [working with freelancers](https://coders.thecodingmachine.com/). You'll find [an overview of all our open source projects on our website](https://thecodingmachine.com/en/open-source-en/) and on [Github](https://github.com/thecodingmachine).
