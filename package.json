@@ -4,7 +4,7 @@
   "description": "React Native Boilerplate",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Optisolgnanaprakasamtb/rn-boilerplate.git"
+    "url": "https://github.com/Optisolgnanaprakasamtb/rn-boilerplate.git"
   },
   "author": "Gnanaprakasam <gnanaprakasam.tb@optisolbusiness.com>",
   "license": "MIT",
