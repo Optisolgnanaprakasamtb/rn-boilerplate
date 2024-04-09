@@ -4,12 +4,12 @@ import { themes as prismThemes } from 'prism-react-renderer';
 export default {
   title: 'The React Native Boilerplate',
   tagline: 'Simple, Lightweight and Scalable.',
-  url: 'https://thecodingmachine.github.io',
+  url: 'https://github.com/Optisolgnanaprakasamtb',
   baseUrl: '/react-native-boilerplate/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/TOM-small.webp',
-  organizationName: 'thecodingmachine',
+  organizationName: 'Optisol',
   projectName: 'react-native-boilerplate',
   i18n: {
     defaultLocale: 'en',
@@ -37,12 +37,12 @@ export default {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           editUrl:
-            'https://github.com/thecodingmachine/react-native-boilerplate/edit/main/website-documentation/docs',
+            'https://github.com/Optisolgnanaprakasamtb/rn-boilerplate',
         },
         blog: {
           showReadingTime: true,
           editUrl:
-            'https://github.com/thecodingmachine/react-native-boilerplate/edit/main/website-documentation/blog',
+            'https://github.com/Optisolgnanaprakasamtb/rn-boilerplate',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -78,7 +78,7 @@ export default {
         },
         { to: '/blog', label: 'Blog', position: 'left' },
         {
-          to: 'https://github.com/thecodingmachine/react-native-boilerplate',
+          to: 'https://github.com/Optisolgnanaprakasamtb/rn-boilerplate',
           label: ' ',
           className: 'header-github-link group',
           position: 'right',
@@ -122,12 +122,12 @@ export default {
             },
             {
               label: 'GitHub',
-              to: 'https://github.com/thecodingmachine/react-native-boilerplate',
+              to: 'https://github.com/Optisolgnanaprakasamtb/rn-boilerplate',
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} React Native Boilerplate, by TheCodingMachine. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} React Native Boilerplate, by Optisol. Built with Docusaurus.`,
     },
     prism: {
       theme: prismThemes.github,

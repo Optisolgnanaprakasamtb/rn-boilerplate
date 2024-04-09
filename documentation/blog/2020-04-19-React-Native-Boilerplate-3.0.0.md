@@ -20,7 +20,7 @@ In this first post, we will present the current state of this boilerplate.
 <!--truncate-->
 
 ## Light 🪶 Simple 👌 and Scalable 📏
-This boilerplate is the core of every react-native applications we develop at [TheCodingMachine](https://www.thecodingmachine.com/).
+This boilerplate is the core of every react-native applications we develop at [Optisol].
 This means that we are the first users! If an issue appear we are the first affected 🥺, that's why this project is actively maintained!
 
 The main idea behind this boilerplate is to have just the necessary and well-known stuff to have a very

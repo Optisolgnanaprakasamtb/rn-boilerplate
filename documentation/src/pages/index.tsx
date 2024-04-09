@@ -60,7 +60,7 @@ export default function Home(): JSX.Element {
 
   return (
     <Layout
-      title={`Light Simple and Scalable ${siteConfig.title} by TheCodingMachine`}
+      title={`Light Simple and Scalable ${siteConfig.title} by Optisol`}
       description="A React Native template for building solid applications, using JavaScript or Typescript (YOU choose)."
       wrapperClassName="relative overflow-hidden"
     >

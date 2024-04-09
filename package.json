@@ -1,17 +1,17 @@
 {
-  "name": "@thecodingmachine/react-native-boilerplate",
-  "version": "4.1.1",
-  "description": "TheCodingMachine React Native Boilerplate",
+  "name": "@optisolgnanaprakasamtb/rn-boilerplate",
+  "version": "1.0.1",
+  "description": "React Native Boilerplate",
   "repository": {
     "type": "git",
-    "url": "https://github.com/thecodingmachine/react-native-boilerplate.git"
+    "url": "https://github.com/Optisolgnanaprakasamtb/rn-boilerplate.git"
   },
-  "author": "TheCodingMachine Lyon <lyon@thecodingmachine.com>",
+  "author": "rn-boilerplate Gnanaprakasam <gnanaprakasam.tb@optisolbusiness.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/thecodingmachine/react-native-boilerplate/issues"
+    "url": "https://github.com/Optisolgnanaprakasamtb/rn-boilerplate/issues"
   },
-  "homepage": "https://thecodingmachine.github.io/react-native-boilerplate/",
+  "homepage": "https://github.com/Optisolgnanaprakasamtb/rn-boilerplate",
   "main": "post-init.script.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -20,13 +20,11 @@
     "react",
     "native",
     "boilerplate",
-    "thecodingmachine",
     "react-native",
     "starter-kit"
   ],
   "dependencies": {
     "kleur": "^4.1.4",
     "prompts": "^2.4.1"
-  },
-  "devDependencies": {}
+  }
 }
