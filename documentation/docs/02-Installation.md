@@ -17,7 +17,7 @@ Follow the installation instructions, and you'll be on your way!
 You can create a new project using the React Native CLI's init command and set the appropriate template by running:
 
 ```bash title=">_ terminal"
-npx react-native@latest init MyApp --template @thecodingmachine/react-native-boilerplate
+npx react-native@latest init MyApp --template @obs/rn-boilerplate
 ```
 
 During the installation process, you will encounter the following prompt:

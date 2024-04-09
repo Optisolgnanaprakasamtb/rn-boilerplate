@@ -42,7 +42,7 @@ Installation has been facilitated since the v2.0.0, thanks to the use of the rea
 To run this boilerplate, the only commands you need are
 
 ```
-npx react-native init --template @thecodingmachine/react-native-boilerplate
+npx react-native init --template @obs/rn-boilerplate
 yarn start
 yarn ios
 yarn android
@@ -85,7 +85,7 @@ Redux-toolkit-wrapper abstract these async operations. For a classic *"fetch one
 ```javascript title="src/Store/User/FetchOne.js"
 import {
   buildAsyncState, buildAsyncReducers, buildAsyncActions,
-} from '@thecodingmachine/redux-toolkit-wrapper'
+} from '@obs/redux-toolkit-wrapper'
 import fetchOneUserService from '@/Services/User/FetchOne'
 
 export default {
