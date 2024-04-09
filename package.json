@@ -4,9 +4,9 @@
   "description": "React Native Boilerplate",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Optisolgnanaprakasamtb/rn-boilerplate.git"
+    "url": "git+https://github.com/Optisolgnanaprakasamtb/rn-boilerplate.git"
   },
-  "author": "rn-boilerplate Gnanaprakasam <gnanaprakasam.tb@optisolbusiness.com>",
+  "author": "Gnanaprakasam <gnanaprakasam.tb@optisolbusiness.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/Optisolgnanaprakasamtb/rn-boilerplate/issues"
@@ -26,5 +26,6 @@
   "dependencies": {
     "kleur": "^4.1.4",
     "prompts": "^2.4.1"
-  }
+  },
+  "devDependencies": {}
 }
