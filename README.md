@@ -21,7 +21,7 @@ Follow instructions for your given `development OS` and `target OS`.
 To create a new project using the boilerplate simply run :
 
 ```
-npx react-native@latest init MyApp --template @obs/rn-boilerplate
+npx react-native@latest init MyApp --template obs-rn-boilerplate
 ```
 
 Assuming you have all the requirements installed, you can run the project by running:

@@ -42,7 +42,7 @@ Installation has been facilitated since the v2.0.0, thanks to the use of the rea
 To run this boilerplate, the only commands you need are
 
 ```
-npx react-native init --template @obs/rn-boilerplate
+npx react-native init --template obs-rn-boilerplate
 yarn start
 yarn ios
 yarn android
